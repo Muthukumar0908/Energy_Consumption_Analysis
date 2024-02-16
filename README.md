@@ -4,7 +4,7 @@
 
 **Project title:** Energy_Consumption_Analysis
 
-**Linkedin:** linkedin.com/in/muthukumar-r-44848416b
+**Linkedin:** [linkedin.com/in/muthukumar-r-44848416b](https://www.linkedin.com/in/muthukumar-r-44848416b/)
 
 **Skills take away From This Project:** Data Cleansing, Exploratory Data Analysis (EDA), Visualization (Power BI).
 
